@@ -41,7 +41,7 @@ html {
   backface-visibility: hidden;
 }
 .front {
-  background-image: url("/canva.png");
+  background-image: url("canva.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
